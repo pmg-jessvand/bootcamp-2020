@@ -1,0 +1,21 @@
+.contact-container {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+
+    .contact-item {
+        display: flex;
+        align-items: center;
+
+        img {
+            width: 30px;
+            margin-right: 10px;
+        }
+
+        a {
+            text-decoration: none;
+            color: #f9f9f9;
+            border-bottom: 1px solid #f9f9f9;
+        }
+    }
+}

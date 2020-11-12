@@ -1,0 +1,22 @@
+.story-container {
+    // border: solid 1px red;
+    width: 60%;
+    margin: 0 auto;
+    
+
+    .text-container {
+
+        p {
+            line-height: 150%;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+    }
+
+    img {
+        margin: 20px auto;
+        width: 100%;
+    }
+}
